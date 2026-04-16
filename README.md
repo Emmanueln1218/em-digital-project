@@ -255,9 +255,9 @@ Este proyecto está disponible bajo licencia MIT para uso educativo y comercial.
 
 ---
 
-*📅 **Última actualización:** Abril 2024*  
+*📅 **Última actualización:** Abril 2026*  
 *🔢 **Versión:** 1.0.0*  
-*👤 **Desarrollado por:** EM-DIGITAL Team*
+*👤 **Desarrollado por:** EM-DIGITAL TEAM*
 
 ---
 
